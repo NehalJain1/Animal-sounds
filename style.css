@@ -1,0 +1,38 @@
+#body {
+  background-image:linear-gradient(#73f5f0,#45a5ff);
+  }
+
+  #heading_div {
+    font-family: 'Macondo', cursive;
+    font-weight: bold;
+    letter-spacing: 5px;
+  }
+  #div2 {
+    font-family: 'Macondo', cursive;
+    font-weight: bolder;
+    letter-spacing: 2px;
+  }
+
+  p {
+    font-size: large;
+  }
+
+  button {
+    font-size: 20px;
+    width: 70px;
+    margin-top: 40px;
+    background: lightsalmon;
+  }
+
+.developer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #2883de;
+  color: black;
+  text-align: center;
+}
+
+img {
+  margin-bottom: 0px;
+}
